@@ -39,7 +39,8 @@ apis:
   - name: Purple Air
     description: "Real Time Air Quality Monitoring"
     humanURL: https://www2.purpleair.com/
-    tags:
+    tags: []
+    tags_raw:
       - Science And Math
     properties:
       - type: Documentation
